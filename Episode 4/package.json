@@ -1,0 +1,29 @@
+{
+  "name": "episode-3",
+  "version": "2.1.1",
+  "description": "NodeJs for ABAPer's - Episode 4",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "yosay": "^2.0.2"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "scripts": {
+    "prestart-me": "echo 'i am in prestart'",
+    "start-me": "node index.js",
+    "say":"node ./node_modules/yosay/cli.js 'hello world'",
+    "poststart-me": "echo 'i am in poststart'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "Javascript",
+    "SAP",
+    "aBAP"
+  ],
+  "author": "Nabheet",
+  "license": "ISC"
+}

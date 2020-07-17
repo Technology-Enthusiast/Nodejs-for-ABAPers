@@ -1,0 +1,10 @@
+### general Request
+GET http://localhost:4081
+
+### EKKO request
+http://localhost:4081/?data=ekko
+
+
+### EKPO request
+http://localhost:4081/?data=ekpo
+

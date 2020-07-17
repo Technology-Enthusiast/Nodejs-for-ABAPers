@@ -1,0 +1,17 @@
+{
+  "name": "1temypackage",
+  "version": "1.0.0",
+  "description": "returns a welcome message for an input name showcasing our te channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "abap"
+  ],
+  "author": "Nabheet",
+  "license": "ISC",
+  "dependencies": {
+    "temypackage": "^1.0.0"
+  }
+}
